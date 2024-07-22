@@ -23,6 +23,7 @@ This repository is dedicated to solving tree related problems using different al
 4. [PostOrder Traversal](https://www.geeksforgeeks.org/problems/postorder-traversal/1) - [Solution](./Basic/PostOrderTraversal.java)
 5. [Size of Binary Tree](https://www.geeksforgeeks.org/problems/size-of-binary-tree/1) - [Solution](./Basic/SizeOfBinaryTree.java)
 6. [Sum of Binary Tree](https://www.geeksforgeeks.org/problems/sum-of-binary-tree/1) - [Solution](./Basic/SumOfBinaryTree.java)
+7. [Count Leaves in Binary Tree](https://www.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1) - [Solution](./Basic/CountLeaves.java)
 
 #### Easy
 
