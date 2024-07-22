@@ -20,7 +20,7 @@ This repository is dedicated to solving tree related problems using different al
 ## Important Classes and Algorithms
 
 1. PreOrder Traversal
-2. PostOrder Traversal\
+2. PostOrder Traversal
 3. InOrder Traversal
    
 ## Installation
