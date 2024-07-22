@@ -17,6 +17,8 @@ This repository is dedicated to solving tree related problems using different al
 
 #### Basic
 
+1. Represntation of Binary Tree - [Solution](./Basic/RepresentationOfBinaryTree.java)
+
 ## Important Classes and Algorithms
 
 1. PreOrder Traversal
