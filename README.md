@@ -25,6 +25,7 @@ This repository is dedicated to solving tree related problems using different al
 #### Easy
 
 1. [Level Order Traversal](https://www.geeksforgeeks.org/problems/level-order-traversal/1) - [Solution](./Easy/LevelOrderTraversal.java)
+2. [Level Order Traversal Spiral Form](https://www.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1) - [Solution](./Easy/LevelOrderTraversalSpiralForm.java)
 
 ## Important Classes and Algorithms
 
