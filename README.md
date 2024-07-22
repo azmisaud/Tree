@@ -22,6 +22,9 @@ This repository is dedicated to solving tree related problems using different al
 3. [PreOrder Traversal](https://www.geeksforgeeks.org/problems/preorder-traversal/1) - [Solution](./Basic/PreOrderTraversal.java)
 4. [PostOrder Traversal](https://www.geeksforgeeks.org/problems/postorder-traversal/1) - [Solution](./Basic/PostOrderTraversal.java)
 
+#### Easy
+
+1. [Level Order Traversal](https://www.geeksforgeeks.org/problems/level-order-traversal/1) - [Solution](./Easy/LevelOrderTraversal.java)
 
 ## Important Classes and Algorithms
 
