@@ -1,4 +1,4 @@
-class PreOrderTraversal {
+class Recursion {
 
   static void preHelp(Node node, ArrayList<Integer> list) {
     if(node==null)
