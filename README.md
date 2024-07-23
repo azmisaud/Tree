@@ -18,7 +18,7 @@ This repository is dedicated to solving tree related problems using different al
 #### Basic
 
 1. Represntation of Binary Tree - [Solution](./Basic/RepresentationOfBinaryTree.java)
-2. [InOrder Traversal](https://www.geeksforgeeks.org/problems/inorder-traversal/1) - [Solution](./Basic/InOrderTraversal.java)
+2. [InOrder Traversal](https://www.geeksforgeeks.org/problems/inorder-traversal/1) - [Solution (Recursion)](./Basic/PreOrder%20Traversal/Recursion.java) , [Solution (Iterative)](./Basic/PreOrder%20Traversal/Iterative.java)
 3. [PreOrder Traversal](https://www.geeksforgeeks.org/problems/preorder-traversal/1) - [Solution](./Basic/PreOrderTraversal.java)
 4. [PostOrder Traversal](https://www.geeksforgeeks.org/problems/postorder-traversal/1) - [Solution](./Basic/PostOrderTraversal.java)
 5. [Size of Binary Tree](https://www.geeksforgeeks.org/problems/size-of-binary-tree/1) - [Solution](./Basic/SizeOfBinaryTree.java)
