@@ -1,4 +1,4 @@
-class InOrderTraversal {
+class Recursion {
 
 void inHelp(Node node, ArrayList<Integer> list) {
   if(node==null)
