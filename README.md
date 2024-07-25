@@ -33,6 +33,7 @@ This repository is dedicated to solving tree related problems using different al
 3. [Maximum Depth of Binary Tree](https://www.geeksforgeeks.org/problems/maximum-depth-of-binary-tree/1) - [Solution (Recursion)](./Easy/Maximum%20Depth%20Of%20Binary%20Tree/usingRecursion.java) , [Solution (Level Order Traversal)](./Easy/Maximum%20Depth%20Of%20Binary%20Tree/usingLevelOrderTraversal.java)
 4. [Minimum Depth of Binary Tree](https://www.geeksforgeeks.org/problems/minimum-depth-of-a-binary-tree/1) - [Solution (Recursion)](./Easy/Minimum%20Depth%20of%20Binary%20Tree/usingRecursion.java) , [Solution (Level Order Traversal)](./Easy/Minimum%20Depth%20of%20Binary%20Tree/usingLevelOrderTraversal.java)
 5. [Maximum Width of Tree](https://www.geeksforgeeks.org/problems/maximum-width-of-tree/1) - [Solution](./Easy/MaximumWidthOfTree.java)
+6. [Height of Binary Tree](https://www.geeksforgeeks.org/problems/height-of-binary-tree/1) - [Solution](./Easy/HeightOfBinaryTree.java)
 
 ## Important Classes and Algorithms
 
