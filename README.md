@@ -43,6 +43,7 @@ This repository is dedicated to solving tree related problems using different al
 13. [Next Right Node](https://www.geeksforgeeks.org/problems/next-right-node/1) - [Solution](./Easy/NextRightNode.java)
 14. [Odd Even Difference Level](https://www.geeksforgeeks.org/problems/odd-even-level-difference/1) - [Solution](./Easy/OddEvenLevelDifference.java)
 15. [Largest Value in Each Level](https://www.geeksforgeeks.org/problems/largest-value-in-each-level/1) - [Solution](./Easy/LargestValueInEachLevel.java)
+16. [Level of a Node in a Binary Tree](https://www.geeksforgeeks.org/problems/level-of-a-node-in-binary-tree/1) - [Solution (using Level Order Traversal)](./Easy/Level%20of%20a%20Node%20in%20a%20Binary%20Tree/usingLevelOrderTraversal.java) , [Solution (using DFS)](./Easy/Level%20of%20a%20Node%20in%20a%20Binary%20Tree/usingDFS.java)
 
 
 #### Medium
