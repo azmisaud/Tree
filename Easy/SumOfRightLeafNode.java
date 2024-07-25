@@ -4,7 +4,7 @@ class SumOfRightLeafNode
     {
         // code here
         if(root.left==null && root.right==null)
-            return root.data;
+            return 0;
             
         int sum=0;
         
