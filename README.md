@@ -37,6 +37,7 @@ This repository is dedicated to solving tree related problems using different al
 7. [Root to Leaf Paths Sum](https://www.geeksforgeeks.org/problems/root-to-leaf-paths-sum/1) - [Solution](./Easy/RootsToLeafPathsSum.java)
 8. [Sum of Leaf Nodes](https://www.geeksforgeeks.org/problems/sum-of-leaf-nodes/1) - [Solution](./Easy/SumOfLeafNodes.java)
 9. [Sum of Right Leaf Nodes](https://www.geeksforgeeks.org/problems/sum-of-right-leaf-nodes/1) - [Solution](./Easy/SumOfRightLeafNodes.java)
+10. [Sum of Left Leaf Nodes](https://www.geeksforgeeks.org/problems/sum-of-left-leaf-nodes/1) - [Solution](./Easy/SumOfLeftLeafNodes.java)
 
 ## Important Classes and Algorithms
 
