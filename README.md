@@ -41,6 +41,7 @@ This repository is dedicated to solving tree related problems using different al
 11. [Sum of Leaf Nodes at Min Level](https://www.geeksforgeeks.org/problems/sum-of-leaf-nodes-at-min-level/1) - [Solution](./Easy/SumOfLeafNodesAtMinLevel.java)
 12. [Next Right Node](https://www.geeksforgeeks.org/problems/next-right-node/1) - [Solution](./Easy/NextRightNode.java)
 13. [Odd Even Difference Level](https://www.geeksforgeeks.org/problems/odd-even-level-difference/1) - [Solution](./Easy/OddEvenLevelDifference.java)
+14. [Largest Value in Each Level](https://www.geeksforgeeks.org/problems/largest-value-in-each-level/1) - [Solution](./Easy/LargestValueInEachLevel.java)
 
 
 #### Medium
