@@ -50,6 +50,7 @@ This repository is dedicated to solving tree related problems using different al
 20. [Nodes at Odd Levels](https://www.geeksforgeeks.org/problems/nodes-at-odd-levels/1) - [Solution](./Easy/NodesAtOddLevel.java)
 21. [Check if all Leaves are at Same Level](https://www.geeksforgeeks.org/problems/leaf-at-same-level/1) - [Solution](./Easy/LeavesAtSameLevel.java)
 22. [Leaf Under Budget](https://www.geeksforgeeks.org/problems/leaf-under-budget/1) - [Solution](./Easy/LeafUnderBudget.java)
+23. [Depth of Node](https://www.geeksforgeeks.org/problems/depth-of-node/1) - [Solution](./Easy/DepthOfNode.java)
 
 #### Medium
 
