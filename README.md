@@ -29,19 +29,20 @@ This repository is dedicated to solving tree related problems using different al
 #### Easy
 
 1. [Level Order Traversal](https://www.geeksforgeeks.org/problems/level-order-traversal/1) - [Solution](./Easy/LevelOrderTraversal.java)
-2. [Level Order Traversal Spiral Form](https://www.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1) - [Solution](./Easy/LevelOrderTraversalSpiralForm.java)
-3. [Maximum Depth of Binary Tree](https://www.geeksforgeeks.org/problems/maximum-depth-of-binary-tree/1) - [Solution (Recursion)](./Easy/Maximum%20Depth%20Of%20Binary%20Tree/usingRecursion.java) , [Solution (Level Order Traversal)](./Easy/Maximum%20Depth%20Of%20Binary%20Tree/usingLevelOrderTraversal.java)
-4. [Minimum Depth of Binary Tree](https://www.geeksforgeeks.org/problems/minimum-depth-of-a-binary-tree/1) - [Solution (Recursion)](./Easy/Minimum%20Depth%20of%20Binary%20Tree/usingRecursion.java) , [Solution (Level Order Traversal)](./Easy/Minimum%20Depth%20of%20Binary%20Tree/usingLevelOrderTraversal.java)
-5. [Maximum Width of Tree](https://www.geeksforgeeks.org/problems/maximum-width-of-tree/1) - [Solution](./Easy/MaximumWidthOfTree.java)
-6. [Height of Binary Tree](https://www.geeksforgeeks.org/problems/height-of-binary-tree/1) - [Solution](./Easy/HeightOfBinaryTree.java)
-7. [Root to Leaf Paths Sum](https://www.geeksforgeeks.org/problems/root-to-leaf-paths-sum/1) - [Solution](./Easy/RootsToLeafPathsSum.java)
-8. [Sum of Leaf Nodes](https://www.geeksforgeeks.org/problems/sum-of-leaf-nodes/1) - [Solution](./Easy/SumOfLeafNodes.java)
-9. [Sum of Right Leaf Nodes](https://www.geeksforgeeks.org/problems/sum-of-right-leaf-nodes/1) - [Solution](./Easy/SumOfRightLeafNodes.java)
-10. [Sum of Left Leaf Nodes](https://www.geeksforgeeks.org/problems/sum-of-left-leaf-nodes/1) - [Solution](./Easy/SumOfLeftLeafNodes.java)
-11. [Sum of Leaf Nodes at Min Level](https://www.geeksforgeeks.org/problems/sum-of-leaf-nodes-at-min-level/1) - [Solution](./Easy/SumOfLeafNodesAtMinLevel.java)
-12. [Next Right Node](https://www.geeksforgeeks.org/problems/next-right-node/1) - [Solution](./Easy/NextRightNode.java)
-13. [Odd Even Difference Level](https://www.geeksforgeeks.org/problems/odd-even-level-difference/1) - [Solution](./Easy/OddEvenLevelDifference.java)
-14. [Largest Value in Each Level](https://www.geeksforgeeks.org/problems/largest-value-in-each-level/1) - [Solution](./Easy/LargestValueInEachLevel.java)
+2. [Level Order Traversal Line by Line](https://www.geeksforgeeks.org/problems/level-order-traversal-line-by-line/1) - [Solution](./Easy/LevelOrderTraversalLineByLine.java)
+3. [Level Order Traversal Spiral Form](https://www.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1) - [Solution](./Easy/LevelOrderTraversalSpiralForm.java)
+4. [Maximum Depth of Binary Tree](https://www.geeksforgeeks.org/problems/maximum-depth-of-binary-tree/1) - [Solution (Recursion)](./Easy/Maximum%20Depth%20Of%20Binary%20Tree/usingRecursion.java) , [Solution (Level Order Traversal)](./Easy/Maximum%20Depth%20Of%20Binary%20Tree/usingLevelOrderTraversal.java)
+5. [Minimum Depth of Binary Tree](https://www.geeksforgeeks.org/problems/minimum-depth-of-a-binary-tree/1) - [Solution (Recursion)](./Easy/Minimum%20Depth%20of%20Binary%20Tree/usingRecursion.java) , [Solution (Level Order Traversal)](./Easy/Minimum%20Depth%20of%20Binary%20Tree/usingLevelOrderTraversal.java)
+6. [Maximum Width of Tree](https://www.geeksforgeeks.org/problems/maximum-width-of-tree/1) - [Solution](./Easy/MaximumWidthOfTree.java)
+7. [Height of Binary Tree](https://www.geeksforgeeks.org/problems/height-of-binary-tree/1) - [Solution](./Easy/HeightOfBinaryTree.java)
+8. [Root to Leaf Paths Sum](https://www.geeksforgeeks.org/problems/root-to-leaf-paths-sum/1) - [Solution](./Easy/RootsToLeafPathsSum.java)
+9. [Sum of Leaf Nodes](https://www.geeksforgeeks.org/problems/sum-of-leaf-nodes/1) - [Solution](./Easy/SumOfLeafNodes.java)
+10. [Sum of Right Leaf Nodes](https://www.geeksforgeeks.org/problems/sum-of-right-leaf-nodes/1) - [Solution](./Easy/SumOfRightLeafNodes.java)
+11. [Sum of Left Leaf Nodes](https://www.geeksforgeeks.org/problems/sum-of-left-leaf-nodes/1) - [Solution](./Easy/SumOfLeftLeafNodes.java)
+12. [Sum of Leaf Nodes at Min Level](https://www.geeksforgeeks.org/problems/sum-of-leaf-nodes-at-min-level/1) - [Solution](./Easy/SumOfLeafNodesAtMinLevel.java)
+13. [Next Right Node](https://www.geeksforgeeks.org/problems/next-right-node/1) - [Solution](./Easy/NextRightNode.java)
+14. [Odd Even Difference Level](https://www.geeksforgeeks.org/problems/odd-even-level-difference/1) - [Solution](./Easy/OddEvenLevelDifference.java)
+15. [Largest Value in Each Level](https://www.geeksforgeeks.org/problems/largest-value-in-each-level/1) - [Solution](./Easy/LargestValueInEachLevel.java)
 
 
 #### Medium
