@@ -17,7 +17,7 @@ This repository is dedicated to solving tree related problems using different al
 
 #### Basic
 
-1. Represntation of Binary Tree - [Solution](./Basic/RepresentationOfBinaryTree.java)
+1. Representation of Binary Tree - [Solution](./Basic/RepresentationOfBinaryTree.java)
 2. [InOrder Traversal](https://www.geeksforgeeks.org/problems/inorder-traversal/1) - [Solution (Recursion)](./Basic/InOrder%20Traversal/Recursion.java) , [Solution (Iterative)](./Basic/InOrder%20Traversal/Iterative.java)
 3. [PreOrder Traversal](https://www.geeksforgeeks.org/problems/preorder-traversal/1) - [Solution (Recursion)](./Basic/PreOrder%20Traversal/Recursion.java) , [Solution (Iterative)](./Basic/PreOrder%20Traversal/Iterative.java)
 4. [PostOrder Traversal](https://www.geeksforgeeks.org/problems/postorder-traversal/1) - [Solution (Recursion)](./Basic/PostOrder%20Traversal/Recursion.java) , [Solution (Iterative using 2 stacks)](./Basic/PostOrder%20Traversal/Iterative.java) , [Solution (Iterative using 1 stack)](./Basic/PostOrder%20Traversal/Iterative2.java)
@@ -49,7 +49,7 @@ This repository is dedicated to solving tree related problems using different al
 19. [Max and Min Element in Binary Tree](https://www.geeksforgeeks.org/problems/max-and-min-element-in-binary-tree/1) - [Solution](./Easy/MaxAndMinElementInBinaryTree.java)
 20. [Nodes at Odd Levels](https://www.geeksforgeeks.org/problems/nodes-at-odd-levels/1) - [Solution](./Easy/NodesAtOddLevel.java)
 21. [Check if all Leaves are at Same Level](https://www.geeksforgeeks.org/problems/leaf-at-same-level/1) - [Solution](./Easy/LeavesAtSameLevel.java)
-
+22. [Leaf Under Budget](https://www.geeksforgeeks.org/problems/leaf-under-budget/1) - [Solution](./Easy/LeafUnderBudget.java)
 
 #### Medium
 
