@@ -40,6 +40,11 @@ This repository is dedicated to solving tree related problems using different al
 10. [Sum of Left Leaf Nodes](https://www.geeksforgeeks.org/problems/sum-of-left-leaf-nodes/1) - [Solution](./Easy/SumOfLeftLeafNodes.java)
 11. [Sum of Leaf Nodes at Min Level](https://www.geeksforgeeks.org/problems/sum-of-leaf-nodes-at-min-level/1) - [Solution](./Easy/SumOfLeafNodesAtMinLevel.java)
 
+
+#### Medium
+
+1.[Children Sum in a Binary Tree](https://www.geeksforgeeks.org/problems/children-sum-parent/1) - [Solution](./Medium/ChildrenSumInBinaryTree.java)
+
 ## Important Classes and Algorithms
 
 1. PreOrder Traversal
