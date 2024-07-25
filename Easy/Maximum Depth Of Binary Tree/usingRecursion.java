@@ -1,4 +1,4 @@
-class MaximumDepthOfBinaryTree {
+class usingRecursion {
   public static int maxDepth(Node root) {
     if(root==null) return 0;
 
