@@ -31,6 +31,7 @@ This repository is dedicated to solving tree related problems using different al
 1. [Level Order Traversal](https://www.geeksforgeeks.org/problems/level-order-traversal/1) - [Solution](./Easy/LevelOrderTraversal.java)
 2. [Level Order Traversal Spiral Form](https://www.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1) - [Solution](./Easy/LevelOrderTraversalSpiralForm.java)
 3. [Maximum Depth of Binary Tree](https://www.geeksforgeeks.org/problems/maximum-depth-of-binary-tree/1) - [Solution (Recursion)](./Easy/Maximum%20Depth%20Of%20Binary%20Tree/usingRecursion.java) , [Solution (Level Order Traversal](./Easy/Maximum%20Depth%20Of%20Binary%20Tree/usingLevelOrderTraversal.java)
+4. [Minimum Depth of Binary Tree](https://www.geeksforgeeks.org/problems/minimum-depth-of-a-binary-tree/1) - [Solution (Recursion)](./Easy/Minimum%20Depth%20Of%20Binary%20Tree/usingRecursion.java) , [Solution (Level Order Traversal](./Easy/Minimum%20Depth%20Of%20Binary%20Tree/usingLevelOrderTraversal.java)
 
 ## Important Classes and Algorithms
 
