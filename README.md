@@ -46,6 +46,8 @@ This repository is dedicated to solving tree related problems using different al
 16. [Level of a Node in a Binary Tree](https://www.geeksforgeeks.org/problems/level-of-a-node-in-binary-tree/1) - [Solution (using Level Order Traversal)](./Easy/Level%20of%20a%20Node%20in%20a%20Binary%20Tree/usingLevelOrderTraversal.java) , [Solution (using DFS)](./Easy/Level%20of%20a%20Node%20in%20a%20Binary%20Tree/usingDFS.java)
 17. [Maximum Node Level](https://www.geeksforgeeks.org/problems/maximum-node-level/1) - [Solution](./Easy/MaximumNodeLevel.java)
 18. [Max Level Sum in a Binary Tree](https://www.geeksforgeeks.org/problems/max-level-sum-in-binary-tree/1) - [Solution](./Easy/MaxLevelSumInBinaryTree.java)
+19. [Max and Min Element in Binary Tree](https://www.geeksforgeeks.org/problems/max-and-min-element-in-binary-tree/1) - [Solution](./Easy/MaxAndMinElementInBinaryTree.java)
+
 
 #### Medium
 
