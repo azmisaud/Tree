@@ -48,6 +48,7 @@ This repository is dedicated to solving tree related problems using different al
 18. [Max Level Sum in a Binary Tree](https://www.geeksforgeeks.org/problems/max-level-sum-in-binary-tree/1) - [Solution](./Easy/MaxLevelSumInBinaryTree.java)
 19. [Max and Min Element in Binary Tree](https://www.geeksforgeeks.org/problems/max-and-min-element-in-binary-tree/1) - [Solution](./Easy/MaxAndMinElementInBinaryTree.java)
 20. [Nodes at Odd Levels](https://www.geeksforgeeks.org/problems/nodes-at-odd-levels/1) - [Solution](./Easy/NodesAtOddLevel.java)
+21. [Check if all Leaves are at Same Level](https://www.geeksforgeeks.org/problems/leaf-at-same-level/1) - [Solution](./Easy/LeavesAtSameLevel.java)
 
 
 #### Medium
