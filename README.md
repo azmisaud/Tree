@@ -39,6 +39,7 @@ This repository is dedicated to solving tree related problems using different al
 9. [Sum of Right Leaf Nodes](https://www.geeksforgeeks.org/problems/sum-of-right-leaf-nodes/1) - [Solution](./Easy/SumOfRightLeafNodes.java)
 10. [Sum of Left Leaf Nodes](https://www.geeksforgeeks.org/problems/sum-of-left-leaf-nodes/1) - [Solution](./Easy/SumOfLeftLeafNodes.java)
 11. [Sum of Leaf Nodes at Min Level](https://www.geeksforgeeks.org/problems/sum-of-leaf-nodes-at-min-level/1) - [Solution](./Easy/SumOfLeafNodesAtMinLevel.java)
+12. [Next Right Node](https://www.geeksforgeeks.org/problems/next-right-node/1) - [Solution](./Easy/NextRightNode.java)
 
 
 #### Medium
