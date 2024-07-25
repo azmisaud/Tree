@@ -43,7 +43,7 @@ This repository is dedicated to solving tree related problems using different al
 
 #### Medium
 
-1.[Children Sum in a Binary Tree](https://www.geeksforgeeks.org/problems/children-sum-parent/1) - [Solution](./Medium/ChildrenSumInBinaryTree.java)
+1. [Children Sum in a Binary Tree](https://www.geeksforgeeks.org/problems/children-sum-parent/1) - [Solution](./Medium/ChildrenSumInBinaryTree.java)
 
 ## Important Classes and Algorithms
 
