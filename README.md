@@ -62,6 +62,7 @@ This repository is dedicated to solving tree related problems using different al
 5. [Diameter of a Binary Tree](https://www.geeksforgeeks.org/problems/diameter-of-binary-tree/1) - [Solution](./Medium/DiameterOfABinaryTree.java)
 6. [Maximum Path Sum from any Node](https://www.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1) - [Solution](./Medium/MaximumPathSumFromAnyNode.java)
 7. [Maximum Sum Leaf to Root Path](https://www.geeksforgeeks.org/problems/maximum-sum-leaf-to-root-path/1) - [Solution](./Medium/MaximumSumLeafToRootPath.java)
+8. [Path from Root with a Specified Sum](https://www.geeksforgeeks.org/problems/paths-from-root-with-a-specified-sum/1) - [Solution](./Medium/PathFromRootWithASpecifiedSum.java)
 
 ## Important Classes and Algorithms
 
