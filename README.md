@@ -55,6 +55,7 @@ This repository is dedicated to solving tree related problems using different al
 #### Medium
 
 1. [Children Sum in a Binary Tree](https://www.geeksforgeeks.org/problems/children-sum-parent/1) - [Solution](./Medium/ChildrenSumInBinaryTree.java)
+2. [Check if all Levels of two Trees are Anagram](https://www.geeksforgeeks.org/problems/check-if-all-levels-of-two-trees-are-anagrams-or-not/1) - [Solution](./Medium/CheckLevelsAreAnagram.java)
 
 ## Important Classes and Algorithms
 
