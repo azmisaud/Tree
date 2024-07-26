@@ -57,6 +57,7 @@ This repository is dedicated to solving tree related problems using different al
 1. [Children Sum in a Binary Tree](https://www.geeksforgeeks.org/problems/children-sum-parent/1) - [Solution](./Medium/ChildrenSumInBinaryTree.java)
 2. [Check if all Levels of two Trees are Anagram](https://www.geeksforgeeks.org/problems/check-if-all-levels-of-two-trees-are-anagrams-or-not/1) - [Solution](./Medium/CheckLevelsAreAnagram.java)
 3. [Connect Nodes at Same Level](https://www.geeksforgeeks.org/problems/connect-nodes-at-same-level/1) - [Solution](./Medium/ConnectNodesAtSameLevel.java)
+4. [Extreme Nodes in Alternate Order](https://www.geeksforgeeks.org/problems/extreme-nodes-in-alternate-order/1) - [Solution](./Medium/ExtremeNodesInAlternateOrder.java)
 
 ## Important Classes and Algorithms
 
