@@ -60,6 +60,7 @@ This repository is dedicated to solving tree related problems using different al
 3. [Connect Nodes at Same Level](https://www.geeksforgeeks.org/problems/connect-nodes-at-same-level/1) - [Solution](./Medium/ConnectNodesAtSameLevel.java)
 4. [Extreme Nodes in Alternate Order](https://www.geeksforgeeks.org/problems/extreme-nodes-in-alternate-order/1) - [Solution](./Medium/ExtremeNodesInAlternateOrder.java)
 5. [Diameter of a Binary Tree](https://www.geeksforgeeks.org/problems/diameter-of-binary-tree/1) - [Solution](./Medium/DiameterOfABinaryTree.java)
+6. [Maximum Path Sum from any Node](https://www.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1) - [Solution](./Medium/MaximumPathSumFromAnyNode.java)
 
 ## Important Classes and Algorithms
 
