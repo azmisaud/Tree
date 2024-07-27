@@ -38,7 +38,7 @@ This repository is dedicated to solving tree related problems using different al
 8. [Height of Binary Tree](https://www.geeksforgeeks.org/problems/height-of-binary-tree/1) - [Solution](./Easy/HeightOfBinaryTree.java)
 9. [Root to Leaf Paths Sum](https://www.geeksforgeeks.org/problems/root-to-leaf-paths-sum/1) - [Solution](./Easy/RootsToLeafPathsSum.java)
 10. [Sum of Leaf Nodes](https://www.geeksforgeeks.org/problems/sum-of-leaf-nodes/1) - [Solution](./Easy/SumOfLeafNodes.java)
-11. [Sum of Right Leaf Nodes](https://www.geeksforgeeks.org/problems/sum-of-right-leaf-nodes/1) - [Solution](./Easy/SumOfRightLeafNodes.java)
+11. [Sum of Right Leaf Nodes](https://www.geeksforgeeks.org/problems/sum-of-right-leaf-nodes/1) - [Solution](./Easy/SumOfRightLeafNode.java)
 12. [Sum of Left Leaf Nodes](https://www.geeksforgeeks.org/problems/sum-of-left-leaf-nodes/1) - [Solution](./Easy/SumOfLeftLeafNodes.java)
 13. [Sum of Leaf Nodes at Min Level](https://www.geeksforgeeks.org/problems/sum-of-leaf-nodes-at-min-level/1) - [Solution](./Easy/SumOfLeafNodesAtMinLevel.java)
 14. [Next Right Node](https://www.geeksforgeeks.org/problems/next-right-node/1) - [Solution](./Easy/NextRightNode.java)
