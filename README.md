@@ -52,6 +52,7 @@ This repository is dedicated to solving tree related problems using different al
 22. [Check if all Leaves are at Same Level](https://www.geeksforgeeks.org/problems/leaf-at-same-level/1) - [Solution](./Easy/LeavesAtSameLevel.java)
 23. [Leaf Under Budget](https://www.geeksforgeeks.org/problems/leaf-under-budget/1) - [Solution](./Easy/LeafUnderBudget.java)
 24. [Depth of Node](https://www.geeksforgeeks.org/problems/depth-of-node/1) - [Solution](./Easy/DepthOfNode.java)
+25. [Identical Trees](https://www.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1) - [Solution](./Easy/IdenticalTrees.java)
 
 #### Medium
 
