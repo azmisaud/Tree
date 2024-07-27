@@ -67,6 +67,7 @@ This repository is dedicated to solving tree related problems using different al
 8. [Path from Root with a Specified Sum](https://www.geeksforgeeks.org/problems/paths-from-root-with-a-specified-sum/1) - [Solution](./Medium/PathFromRootWithASpecifiedSum.java)
 9. [Check if SubTree](https://www.geeksforgeeks.org/problems/check-if-subtree/1) - [Solution](./Medium/CheckIfSubTree.java)
 10. [Zig Zag Tree Traversal](https://www.geeksforgeeks.org/problems/zigzag-tree-traversal/1) - [Solution](./Medium/ZigZagTraversal.java)
+11. [Boundary Traversal](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) - [Solution](./Medium/BoundaryTraversal.java)
 
 ## Important Classes and Algorithms
 
