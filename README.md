@@ -53,6 +53,7 @@ This repository is dedicated to solving tree related problems using different al
 23. [Leaf Under Budget](https://www.geeksforgeeks.org/problems/leaf-under-budget/1) - [Solution](./Easy/LeafUnderBudget.java)
 24. [Depth of Node](https://www.geeksforgeeks.org/problems/depth-of-node/1) - [Solution](./Easy/DepthOfNode.java)
 25. [Identical Trees](https://www.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1) - [Solution](./Easy/IdenticalTrees.java)
+26. [Mirror Tree](https://www.geeksforgeeks.org/problems/mirror-tree/1) - [Solution](./Easy/MirrorTree.java)
 
 #### Medium
 
