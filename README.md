@@ -64,6 +64,7 @@ This repository is dedicated to solving tree related problems using different al
 6. [Maximum Path Sum from any Node](https://www.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1) - [Solution](./Medium/MaximumPathSumFromAnyNode.java)
 7. [Maximum Sum Leaf to Root Path](https://www.geeksforgeeks.org/problems/maximum-sum-leaf-to-root-path/1) - [Solution](./Medium/MaximumSumLeafToRootPath.java)
 8. [Path from Root with a Specified Sum](https://www.geeksforgeeks.org/problems/paths-from-root-with-a-specified-sum/1) - [Solution](./Medium/PathFromRootWithASpecifiedSum.java)
+9. [Check if SubTree](https://www.geeksforgeeks.org/problems/check-if-subtree/1) - [Solution](./Medium/CheckIfSubTree.java)
 
 ## Important Classes and Algorithms
 
