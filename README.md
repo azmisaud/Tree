@@ -57,6 +57,7 @@ This repository is dedicated to solving tree related problems using different al
 27. [Identical Trees](https://www.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1) - [Solution](./Easy/IdenticalTrees.java)
 28. [Mirror Tree](https://www.geeksforgeeks.org/problems/mirror-tree/1) - [Solution](./Easy/MirrorTree.java)
 29. [Find the Node with maximum GCD of the siblings of a Binary Tree](https://www.geeksforgeeks.org/problems/find-the-node-with-maximum-gcd-of-the-siblings-of-a-binary-tree/1) - [Solution](./Easy/NodeWithMaximumGCD.java)
+30. [Transform to Sum Tree](https://www.geeksforgeeks.org/problems/transform-to-sum-tree--170645/1)  - [Solution](./Easy/TransformToSumTree.java)
 
 #### Medium
 
