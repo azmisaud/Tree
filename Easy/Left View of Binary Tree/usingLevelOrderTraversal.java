@@ -10,7 +10,7 @@ class Node
         left = right = null;
     }
 }*/
-class LeftViewOfBinaryTree
+class usingLevelOrderTraversal
 {
     //Function to return list containing elements of left view of binary tree.
     ArrayList<Integer> leftView(Node root)
