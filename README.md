@@ -32,7 +32,7 @@ This repository is dedicated to solving tree related problems using different al
 2. [Level Order Traversal Line by Line](https://www.geeksforgeeks.org/problems/level-order-traversal-line-by-line/1) - [Solution](./Easy/LevelOrderTraversalLineByLine.java)
 3. [Level Order Traversal Spiral Form](https://www.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1) - [Solution](./Easy/LevelOrderTraversalSpiralForm.java)
 4. [Left View of Binary Tree](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1) - [Solution](./Easy/LeftViewOfBinaryTree.java)
-5. [Right View of Binary Tree](https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/1) - [Solution](./Easy/RightViewOfBinaryTree.java)
+5. [Right View of Binary Tree](https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/1) - [Solution (Recursion)](./Easy/Right%20View%20of%20Binary%20Tree/usingRecursion.java) , [Solution (Level Order Traversal)](./Easy/Right%20View%20of%20Binary%20Tree/usingLevelOrderTraversal.java)
 6. [Maximum Depth of Binary Tree](https://www.geeksforgeeks.org/problems/maximum-depth-of-binary-tree/1) - [Solution (Recursion)](./Easy/Maximum%20Depth%20Of%20Binary%20Tree/usingRecursion.java) , [Solution (Level Order Traversal)](./Easy/Maximum%20Depth%20Of%20Binary%20Tree/usingLevelOrderTraversal.java)
 7. [Minimum Depth of Binary Tree](https://www.geeksforgeeks.org/problems/minimum-depth-of-a-binary-tree/1) - [Solution (Recursion)](./Easy/Minimum%20Depth%20of%20Binary%20Tree/usingRecursion.java) , [Solution (Level Order Traversal)](./Easy/Minimum%20Depth%20of%20Binary%20Tree/usingLevelOrderTraversal.java)
 8. [Balanced Tree Check](https://www.geeksforgeeks.org/problems/check-for-balanced-tree/1) - [Solution](./Easy/BalancedTreeCheck.java)
