@@ -68,6 +68,7 @@ This repository is dedicated to solving tree related problems using different al
 9. [Check if SubTree](https://www.geeksforgeeks.org/problems/check-if-subtree/1) - [Solution](./Medium/CheckIfSubTree.java)
 10. [Zig Zag Tree Traversal](https://www.geeksforgeeks.org/problems/zigzag-tree-traversal/1) - [Solution](./Medium/ZigZagTraversal.java)
 11. [Boundary Traversal](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) - [Solution](./Medium/BoundaryTraversal.java)
+12. [Vertical Order Traversal](https://www.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1) - [Solution](./Medium/VerticalOrderTraversal.java)
 
 ## Important Classes and Algorithms
 
