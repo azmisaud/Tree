@@ -77,6 +77,7 @@ This repository is dedicated to solving tree related problems using different al
 12. [Vertical Order Traversal](https://www.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1) - [Solution](./Medium/VerticalOrderTraversal.java)
 13. [Top View of Binary Tree](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1) - [Solution](./Medium/TopViewOfBinaryTree.java)
 14. [Bottom View of Binary Tree](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) - [Solution](./Medium/BottomViewOfBinaryTree.java)
+15. [Maximum GCD of siblings of a Binary Tree](https://www.geeksforgeeks.org/problems/maximum-gcd-of-siblings-of-a-binary-tree/1) - [Solution](./Medium/MaximumGCDofSiblingsOfABinaryTree.java)
 
 ## Important Classes and Algorithms
 
