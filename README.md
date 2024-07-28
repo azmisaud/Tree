@@ -56,6 +56,7 @@ This repository is dedicated to solving tree related problems using different al
 26. [Depth of Node](https://www.geeksforgeeks.org/problems/depth-of-node/1) - [Solution](./Easy/DepthOfNode.java)
 27. [Identical Trees](https://www.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1) - [Solution](./Easy/IdenticalTrees.java)
 28. [Mirror Tree](https://www.geeksforgeeks.org/problems/mirror-tree/1) - [Solution](./Easy/MirrorTree.java)
+29. [Find the Node with maximum GCD of the siblings of a Binary Tree](https://www.geeksforgeeks.org/problems/find-the-node-with-maximum-gcd-of-the-siblings-of-a-binary-tree/1) - [Solution](./Easy/NodeWithMaximumGCD.java)
 
 #### Medium
 
