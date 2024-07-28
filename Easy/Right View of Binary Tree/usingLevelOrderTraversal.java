@@ -9,7 +9,7 @@
     }
 }*/
 
-class RightViewOfBinaryTree {
+class usingLevelOrderTraversal {
     // Function to return list containing elements of right view of binary tree.
     ArrayList<Integer> rightView(Node root) {
         // add code here.
