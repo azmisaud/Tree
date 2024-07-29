@@ -60,6 +60,7 @@ This repository is dedicated to solving tree related problems using different al
 30. [Transform to Sum Tree](https://www.geeksforgeeks.org/problems/transform-to-sum-tree--170645/1)  - [Solution](./Easy/TransformToSumTree.java)
 31. [Tilt of Binary Tree](https://www.geeksforgeeks.org/problems/tilt-of-binary-tree/1) - [Solution](./Easy/TiltOfBinaryTree.java)
 32. [Max Level Sum in a Binary Tree](https://www.geeksforgeeks.org/problems/max-level-sum-in-binary-tree--170647/1) - [Solution](./Easy/MaxLevelSum.java)
+33. [Symmetric Tree](https://www.geeksforgeeks.org/problems/symmetric-tree/1) - [Solution](./Easy/SymmetricTree.java)
 
 #### Medium
 
