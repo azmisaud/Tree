@@ -81,6 +81,7 @@ This repository is dedicated to solving tree related problems using different al
 15. [Maximum GCD of siblings of a Binary Tree](https://www.geeksforgeeks.org/problems/maximum-gcd-of-siblings-of-a-binary-tree/1) - [Solution](./Medium/MaximumGCDofSiblingsOfABinaryTree.java)
 16. [Print Binary Tree Levels in Sorted Order](https://www.geeksforgeeks.org/problems/print-binary-tree-levels-in-sorted-order3241/1) - [Solution](./Medium/PrintBinaryTreeLevelsInSortedOrder.java)
 17. [Lowest common Ancestor in a Binary Tree](https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1) - [Solution](./Medium/LowestCommonAncestor.java)
+18. [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/submissions/) - [Solution](./Medium/MaximumWidthOfBT.java)
 
 ## Important Classes and Algorithms
 
