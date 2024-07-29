@@ -80,6 +80,7 @@ This repository is dedicated to solving tree related problems using different al
 14. [Bottom View of Binary Tree](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) - [Solution](./Medium/BottomViewOfBinaryTree.java)
 15. [Maximum GCD of siblings of a Binary Tree](https://www.geeksforgeeks.org/problems/maximum-gcd-of-siblings-of-a-binary-tree/1) - [Solution](./Medium/MaximumGCDofSiblingsOfABinaryTree.java)
 16. [Print Binary Tree Levels in Sorted Order](https://www.geeksforgeeks.org/problems/print-binary-tree-levels-in-sorted-order3241/1) - [Solution](./Medium/PrintBinaryTreeLevelsInSortedOrder.java)
+17. [Lowest common Ancestor in a Binary Tree](https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1) - [Solution](./Medium/LowestCommonAncestor.java)
 
 ## Important Classes and Algorithms
 
