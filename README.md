@@ -84,6 +84,7 @@ This repository is dedicated to solving tree related problems using different al
 17. [Lowest common Ancestor in a Binary Tree](https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1) - [Solution](./Medium/LowestCommonAncestor.java)
 18. [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/submissions/) - [Solution](./Medium/MaximumWidthOfBT.java)
 19. [Foldable Binary Tree](https://www.geeksforgeeks.org/problems/foldable-binary-tree/1) - [Solution](./Medium/FoldableBinaryTree.java)
+20. [Image Multiplication](https://www.geeksforgeeks.org/problems/image-multiplication0627/1) - [Solution](./Medium/ImageMultiplication.java)
 
 ## Important Classes and Algorithms
 
