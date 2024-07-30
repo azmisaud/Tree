@@ -88,6 +88,7 @@ This repository is dedicated to solving tree related problems using different al
 21. [Mirror of a given Node](https://www.geeksforgeeks.org/problems/mirror-of-a-given-node/1) - [Solution](./Medium/MirrorOfAGivenNode.java)
 22. [Sum Tree](https://www.geeksforgeeks.org/problems/sum-tree/1) - [Solution](./Medium/SumTree.java)
 23. [Leftmost and rightmost nodes of Binary Tree](https://www.geeksforgeeks.org/problems/leftmost-and-rightmost-nodes-of-binary-tree/1) {It's an easy one} - [Solution](./Medium/LeftMostAndRightMostNodes.java)
+24. [Reverse Alternate Levels of a Perfect Binary Tree](https://www.geeksforgeeks.org/problems/reverse-alternate-levels-of-a-perfect-binary-tree/1) - [Solution](./Medium/ReverseAlternateLevelsOfPBT.java)
 
 ## Important Classes and Algorithms
 
