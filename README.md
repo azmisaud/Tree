@@ -91,6 +91,7 @@ This repository is dedicated to solving tree related problems using different al
 24. [Reverse Alternate Levels of a Perfect Binary Tree](https://www.geeksforgeeks.org/problems/reverse-alternate-levels-of-a-perfect-binary-tree/1) - [Solution](./Medium/ReverseAlternateLevelsOfPBT.java)
 25. [Maximum Value](https://www.geeksforgeeks.org/problems/maximum-value--170645/1) - [Solution](./Medium/MaximumValue.java)
 26. Convert a Binary Tree so that it follows Children Sum Property - [Solution](./Medium/ChangeTreeToFollowChildrenSumProperty.java)
+27. [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree) - [Solution](./Medium/AllNodesDistanceK.java)
 
 ## Important Classes and Algorithms
 
