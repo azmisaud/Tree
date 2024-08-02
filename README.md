@@ -93,6 +93,12 @@ This repository is dedicated to solving tree related problems using different al
 26. Convert a Binary Tree so that it follows Children Sum Property - [Solution](./Medium/ChangeTreeToFollowChildrenSumProperty.java)
 27. [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree) - [Solution](./Medium/AllNodesDistanceK.java)
 
+
+#### Hard
+
+1. [Burning Tree](https://www.geeksforgeeks.org/problems/burning-tree/1) - [Solution](./Hard/BurningTree.java)
+
+
 ## Important Classes and Algorithms
 
 1. PreOrder Traversal
