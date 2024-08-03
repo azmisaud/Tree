@@ -100,6 +100,7 @@ This repository is dedicated to solving tree related problems using different al
 
 1. [Nodes at given Distance in Binary Tree](https://www.geeksforgeeks.org/problems/nodes-at-given-distance-in-binary-tree/1) - [Solution](./Hard/NodesAtGivenDistance.java)
 2. [Burning Tree](https://www.geeksforgeeks.org/problems/burning-tree/1) - [Solution](./Hard/BurningTree.java)
+3. [Minimum Distance between two given nodes in a Binary Tree](https://www.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1) - [Solution](./Hard/MinimumDistance.java)
 
 
 ## Important Classes and Algorithms
