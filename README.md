@@ -96,7 +96,8 @@ This repository is dedicated to solving tree related problems using different al
 
 #### Hard
 
-1. [Burning Tree](https://www.geeksforgeeks.org/problems/burning-tree/1) - [Solution](./Hard/BurningTree.java)
+1. [Nodes at given Distance in Binary Tree](https://www.geeksforgeeks.org/problems/nodes-at-given-distance-in-binary-tree/1) - [Solution](./Hard/NodesAtGivenDistance.java)
+2. [Burning Tree](https://www.geeksforgeeks.org/problems/burning-tree/1) - [Solution](./Hard/BurningTree.java)
 
 
 ## Important Classes and Algorithms
