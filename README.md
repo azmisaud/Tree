@@ -101,6 +101,7 @@ This repository is dedicated to solving tree related problems using different al
 33. [Sum of Nodes within k Distance from Target](https://www.geeksforgeeks.org/problems/sum-of-nodes-within-k-distance-from-target--170637/1) {SAME AS PREVIOUS ONE} - [Solution](./Medium/SumOfNodesKDistance.java)
 34. [IPL 2021 - Match Day 3](https://www.geeksforgeeks.org/problems/ipl-2021-match-day-3--141634/1) {SAME AS PREVIOUS ONE} - [Solution](./Medium/IPL2021MatchDay.java)
 35. [Bheem Wants Ladoos](https://www.geeksforgeeks.org/problems/bheem-wants-ladoos--170647/1) {SAME AS PREVIOUS ONE} - [Solution](./Medium/BheemWantsLadoos.java)
+36. [Kth Ancestor in a Tree](https://www.geeksforgeeks.org/problems/kth-ancestor-in-a-tree/1) - [Solution](./Medium/KthAncestorInATree.java)
 
 #### Hard
 
