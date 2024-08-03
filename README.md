@@ -62,6 +62,7 @@ This repository is dedicated to solving tree related problems using different al
 32. [Max Level Sum in a Binary Tree](https://www.geeksforgeeks.org/problems/max-level-sum-in-binary-tree--170647/1) - [Solution](./Easy/MaxLevelSum.java)
 33. [Symmetric Tree](https://www.geeksforgeeks.org/problems/symmetric-tree/1) - [Solution](./Easy/SymmetricTree.java)
 34. [Two Mirror Trees](https://www.geeksforgeeks.org/problems/two-mirror-trees/1) - [Solution](./Easy/TwoMirrorTrees.java)
+35. [Root to Leaf Path Sum](https://www.geeksforgeeks.org/problems/root-to-leaf-path-sum/1) - [Solution](./Easy/RootToLeafPathSum.java)
 
 #### Medium
 
