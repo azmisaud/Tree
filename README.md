@@ -94,6 +94,7 @@ This repository is dedicated to solving tree related problems using different al
 27. [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree) - [Solution](./Medium/AllNodesDistanceK.java)
 28. [Count Number of Nodes in a Complete Binary Tree](https://www.geeksforgeeks.org/problems/count-number-of-nodes-in-a-binary-tree/1) - [Solution](./Medium/CountNodesInCBT.java)
 29. [Construct Tree from InOrder and PreOrder](https://www.geeksforgeeks.org/problems/construct-tree-1/1) - [Solution](./Medium/ConstructTreeFromInAndPreOrder.java)
+30. [Ancestors in a Binary Tree](https://www.geeksforgeeks.org/problems/ancestors-in-binary-tree/1) - [Solution](./Medium/AncestorsInABinaryTree.java)
 
 
 #### Hard
