@@ -25,6 +25,7 @@ This repository is dedicated to solving tree related problems using different al
 6. [Sum of Binary Tree](https://www.geeksforgeeks.org/problems/sum-of-binary-tree/1) - [Solution](./Basic/SumOfBinaryTree.java)
 7. [Count Leaves in Binary Tree](https://www.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1) - [Solution](./Basic/CountLeaves.java)
 8. [Count Non-Leaf Nodes in Tree](https://www.geeksforgeeks.org/problems/count-non-leaf-nodes-in-tree/1) - [Solution](./Basic/CountNonLeaf.java)
+9. [Search a node in BST](https://www.geeksforgeeks.org/problems/search-a-node-in-bst/1) - [Solution](./Basic/SearchANodeInABST.java)
 
 #### Easy
 
