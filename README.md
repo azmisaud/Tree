@@ -95,13 +95,14 @@ This repository is dedicated to solving tree related problems using different al
 27. [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree) - [Solution](./Medium/AllNodesDistanceK.java)
 28. [Count Number of Nodes in a Complete Binary Tree](https://www.geeksforgeeks.org/problems/count-number-of-nodes-in-a-binary-tree/1) - [Solution](./Medium/CountNodesInCBT.java)
 29. [Construct Tree from InOrder and PreOrder](https://www.geeksforgeeks.org/problems/construct-tree-1/1) - [Solution](./Medium/ConstructTreeFromInAndPreOrder.java)
-30. [Ancestors in a Binary Tree](https://www.geeksforgeeks.org/problems/ancestors-in-binary-tree/1) - [Solution](./Medium/AncestorsInABinaryTree.java)
-31. [Count Number of SubTrees having given Sum](https://www.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1) - [Solution](./Medium/SubTreeHavingGivenSum.java)
-32. [Valentine Sum](https://www.geeksforgeeks.org/problems/valentine-sum--141631/1) - [Solution](./Medium/ValentineSum.java)
-33. [Sum of Nodes within k Distance from Target](https://www.geeksforgeeks.org/problems/sum-of-nodes-within-k-distance-from-target--170637/1) {SAME AS PREVIOUS ONE} - [Solution](./Medium/SumOfNodesKDistance.java)
-34. [IPL 2021 - Match Day 3](https://www.geeksforgeeks.org/problems/ipl-2021-match-day-3--141634/1) {SAME AS PREVIOUS ONE} - [Solution](./Medium/IPL2021MatchDay.java)
-35. [Bheem Wants Ladoos](https://www.geeksforgeeks.org/problems/bheem-wants-ladoos--170647/1) {SAME AS PREVIOUS ONE} - [Solution](./Medium/BheemWantsLadoos.java)
-36. [Kth Ancestor in a Tree](https://www.geeksforgeeks.org/problems/kth-ancestor-in-a-tree/1) - [Solution](./Medium/KthAncestorInATree.java)
+30. [Binary Tree from Inorder and Postorder](https://www.geeksforgeeks.org/problems/tree-from-postorder-and-inorder/1) - [Solution](./Medium/ConstructTreeFromInAndPostOrder.java)
+31. [Ancestors in a Binary Tree](https://www.geeksforgeeks.org/problems/ancestors-in-binary-tree/1) - [Solution](./Medium/AncestorsInABinaryTree.java)
+32. [Count Number of SubTrees having given Sum](https://www.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1) - [Solution](./Medium/SubTreeHavingGivenSum.java)
+33. [Valentine Sum](https://www.geeksforgeeks.org/problems/valentine-sum--141631/1) - [Solution](./Medium/ValentineSum.java)
+34. [Sum of Nodes within k Distance from Target](https://www.geeksforgeeks.org/problems/sum-of-nodes-within-k-distance-from-target--170637/1) {SAME AS PREVIOUS ONE} - [Solution](./Medium/SumOfNodesKDistance.java)
+35. [IPL 2021 - Match Day 3](https://www.geeksforgeeks.org/problems/ipl-2021-match-day-3--141634/1) {SAME AS PREVIOUS ONE} - [Solution](./Medium/IPL2021MatchDay.java)
+36. [Bheem Wants Ladoos](https://www.geeksforgeeks.org/problems/bheem-wants-ladoos--170647/1) {SAME AS PREVIOUS ONE} - [Solution](./Medium/BheemWantsLadoos.java)
+37. [Kth Ancestor in a Tree](https://www.geeksforgeeks.org/problems/kth-ancestor-in-a-tree/1) - [Solution](./Medium/KthAncestorInATree.java)
 
 #### Hard
 
