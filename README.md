@@ -103,6 +103,7 @@ This repository is dedicated to solving tree related problems using different al
 35. [IPL 2021 - Match Day 3](https://www.geeksforgeeks.org/problems/ipl-2021-match-day-3--141634/1) {SAME AS PREVIOUS ONE} - [Solution](./Medium/IPL2021MatchDay.java)
 36. [Bheem Wants Ladoos](https://www.geeksforgeeks.org/problems/bheem-wants-ladoos--170647/1) {SAME AS PREVIOUS ONE} - [Solution](./Medium/BheemWantsLadoos.java)
 37. [Kth Ancestor in a Tree](https://www.geeksforgeeks.org/problems/kth-ancestor-in-a-tree/1) - [Solution](./Medium/KthAncestorInATree.java)
+38. [Serialize and Deserialize a Binary Tree](https://www.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1) - [Solution](./Medium/SerializeAndDeserialize.java)
 
 #### Hard
 
