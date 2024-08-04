@@ -107,6 +107,7 @@ This repository is dedicated to solving tree related problems using different al
 39. Morris Traversal (InOrder, SC:O(1)) - [Solution](./Medium/MorrisTraversalInOrder.java)
 40. Morris Traversal (PreOrder, SC:O(1)) - [Solution](./Medium/MorrisTraversalPreOrder.java)
 41. [Flatten Binary Tree to Linked List](https://www.geeksforgeeks.org/problems/flatten-binary-tree-to-linked-list/1) - [Solution (Recursion)](./Medium/Flatten%20Binary%20Tree%20to%20Linked%20List/usingRecursion.java)
+42. [Diagonal Traversal of Binary Tree](https://www.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1) - [Solution](./Medium/DiagonalTraversalOfBT.java)
 
 #### Hard
 
