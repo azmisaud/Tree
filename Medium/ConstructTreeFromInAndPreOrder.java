@@ -1,14 +1,14 @@
 class ConstructTreeFromInAndPreOrder{
 
   private static Node getTree(int[] inOrder, int[] preOrder, int root, int left, int right){
-    if(left>right || root>preOrder.length){
+    if(left>right || root>=preOrder.length){
       return null;
     }
 
     int rootPosition=0;
 
     for(int i=left;i<=right;i++){
-      if(inOrder[i]=preOrder[root]){
+      if(inOrder[i]==preOrder[root]){
         rootPosition=i;
         break;
       }
