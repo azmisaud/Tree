@@ -116,6 +116,7 @@ This repository is dedicated to solving tree related problems using different al
 44. [Floor in BST](https://www.geeksforgeeks.org/problems/floor-in-bst/1) - [Solution](./Medium/FloorInBST.java)
 45. [Find the Closest Element in BST](https://www.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1) - [Solution](./Medium/ClosestElementInBST.java)
 46. [Delete a node from BST](https://www.geeksforgeeks.org/problems/delete-a-node-from-bst/1) - [Solution](./Medium/DeleteNodeFromBST.java)
+47. [BST Downward Traversal](https://www.geeksforgeeks.org/problems/bst-downward-traversal--170646/1) - [Solution](./Medium/BSTDownwardTraversal.java)
 
 #### Hard
 
