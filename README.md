@@ -115,6 +115,7 @@ This repository is dedicated to solving tree related problems using different al
 43. [Ceil in BST](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1) {Easy One} - [Solution](./Medium/CeilInABST.java)
 44. [Floor in BST](https://www.geeksforgeeks.org/problems/floor-in-bst/1) - [Solution](./Medium/FloorInBST.java)
 45. [Find the Closest Element in BST](https://www.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1) - [Solution](./Medium/ClosestElementInBST.java)
+46. [Delete a node from BST](https://www.geeksforgeeks.org/problems/delete-a-node-from-bst/1) - [Solution](./Medium/DeleteNodeFromBST.java)
 
 #### Hard
 
