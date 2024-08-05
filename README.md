@@ -65,6 +65,7 @@ This repository is dedicated to solving tree related problems using different al
 34. [Two Mirror Trees](https://www.geeksforgeeks.org/problems/two-mirror-trees/1) - [Solution](./Easy/TwoMirrorTrees.java)
 35. [Root to Leaf Path Sum](https://www.geeksforgeeks.org/problems/root-to-leaf-path-sum/1) - [Solution](./Easy/RootToLeafPathSum.java)
 36. [Insert a node in a BST](https://www.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1) - [Solution](./Easy/InsertNodeInBST.java)
+37. [Sum of leaf nodes in BST](https://www.geeksforgeeks.org/problems/sum-of-leaf-nodes-in-bst/1) - [Solution](./Easy/SumOfLeafNodesBST.java)
 
 #### Medium
 
